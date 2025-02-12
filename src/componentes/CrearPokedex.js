@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import BuscarPokemon from './BuscarPokemon';
-import ListarPokemon from './ListarPokemons2';
+import ListarPokemon from './ListarPokemons';
 import MostrarImagen from './MostrarImagen';
 import lupaImg from './icons/lupa.png';
 import menuImg from './icons/menuImg.png';
