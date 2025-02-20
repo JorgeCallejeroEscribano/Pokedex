@@ -2,7 +2,7 @@
 
 He creado una aplicación para buscar Pokémon y obtener información sobre ellos. En esta primera versión, puedes buscar un Pokémon por su nombre o número de Pokédex, o explorar la lista de Pokémon disponibles.
 
-##Tecnologias:
+## Tecnologias:
 
 He utilizado React, JavaScript y CSS para desarrollar el proyecto.
 
